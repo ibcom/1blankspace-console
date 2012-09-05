@@ -1,0 +1,9 @@
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\bin\Debug\1blankspaceConsole.exe
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\bin\Debug\1blankspaceConsole.pdb
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\obj\x86\Debug\1blankspaceConsole.exe
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\obj\x86\Debug\1blankspaceConsole.pdb
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\bin\Debug\1blankspaceConsole.exe.manifest
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\bin\Debug\1blankspaceConsole.application
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\obj\x86\Debug\1blankspaceConsole.exe.manifest
+C:\ibCom\Marketing\1blankspace.com\Console\1blankspaceConsole\1blankspaceConsole\obj\x86\Debug\1blankspaceConsole.application
